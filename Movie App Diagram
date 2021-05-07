@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T00:51:29.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0FSblNbm53AwtkRAwIxU" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T00:59:20.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NiLPTzRDwwMauIAkXJEh" version="14.6.10" type="github">
   <diagram id="VgyAx0Pwbxr6GpvPItfd" name="Page-1">
     <mxGraphModel dx="946" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="15" y="80" width="820" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZuRg46wLbyHDVyphlHw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="160" width="760" height="450" as="geometry" />
+          <mxGeometry x="55" y="200" width="760" height="450" as="geometry" />
         </mxCell>
         <mxCell id="xZuRg46wLbyHDVyphlHw-4" value="Movie List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
@@ -23,22 +23,34 @@
           <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZuRg46wLbyHDVyphlHw-7" value="Reviews" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xZuRg46wLbyHDVyphlHw-8" value="Movie Details (Runtime, Rating)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xZuRg46wLbyHDVyphlHw-9" value="Movies (Model)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xZuRg46wLbyHDVyphlHw-10" value="Description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="xZuRg46wLbyHDVyphlHw-8" value="Movie Details (Runtime, Rating)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-9" value="Movies (Model)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-10" value="Description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZuRg46wLbyHDVyphlHw-11" value="Watchlist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZuRg46wLbyHDVyphlHw-12" value="Watchlist Edit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-13" value="FEATURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="440" width="92.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-14" value="COMPONENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="495" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-15" value="MODEL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="700" y="550" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xZuRg46wLbyHDVyphlHw-16" value="Movie List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
